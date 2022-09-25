@@ -1,0 +1,2 @@
+project(':rusty-android-lib').projectDir = new File(rootDir, 'android/rusty-android-lib/')
+include ':rusty-android-lib'
